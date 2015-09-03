@@ -1,0 +1,8 @@
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\QuickRepository\bin\Debug\QuickRepository.dll
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\QuickRepository\bin\Debug\QuickRepository.pdb
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\QuickRepository\obj\Debug\QuickRepository.dll
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\QuickRepository\obj\Debug\QuickRepository.pdb
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\QuickRepository\bin\Debug\FastMember.dll
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\QuickRepository\bin\Debug\FastMember.pdb
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\QuickRepository\bin\Debug\FastMember.xml
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\QuickRepository\obj\Debug\QuickRepository.csprojResolveAssemblyReference.cache

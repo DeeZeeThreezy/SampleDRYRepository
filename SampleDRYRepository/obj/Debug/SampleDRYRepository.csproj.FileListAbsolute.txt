@@ -1,0 +1,11 @@
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\bin\Debug\SampleDRYRepository.exe.config
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\bin\Debug\SampleDRYRepository.exe
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\bin\Debug\SampleDRYRepository.pdb
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\obj\Debug\SampleDRYRepository.exe
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\obj\Debug\SampleDRYRepository.pdb
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\bin\Debug\QuickRepository.dll
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\bin\Debug\QuickRepository.pdb
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\obj\Debug\SampleDRYRepository.csprojResolveAssemblyReference.cache
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\bin\Debug\FastMember.dll
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\bin\Debug\FastMember.pdb
+c:\users\dpere_000\documents\visual studio 2013\Projects\SampleDRYRepository\SampleDRYRepository\bin\Debug\FastMember.xml
